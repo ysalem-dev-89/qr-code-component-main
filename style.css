@@ -22,7 +22,7 @@ body {
   height: calc(100vh - 1px);
 }
 .card {
-  max-width: 450px;
+  max-width: 320px;
   background-color: hsl(0, 0%, 100%);
   padding: 15px;
   border-radius: 15px;
